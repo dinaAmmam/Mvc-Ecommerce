@@ -1,0 +1,49 @@
+/* _content/Repoteq-task/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-kpan3qgyvs] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-kpan3qgyvs] {
+  color: #0077cc;
+}
+
+.btn-primary[b-kpan3qgyvs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-kpan3qgyvs], .nav-pills .show > .nav-link[b-kpan3qgyvs] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-kpan3qgyvs] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-kpan3qgyvs] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-kpan3qgyvs] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-kpan3qgyvs] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-kpan3qgyvs] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

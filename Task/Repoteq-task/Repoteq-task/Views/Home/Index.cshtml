@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="card-container w-100 pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="card mt-4 card-product">
+                    <div class="img-card ">
+@*                         link to go to product page onclick image
+                        <a href="@Url.Action("Index", "Product")"> *@
+                        <img src="~/img/product.jpg" class="card-img-top" alt="...">
+                    </div>
+
+                    <div class="card-body pt-4">
+                        <p class="card-text text-center text-primary mb-1 fw-bold">Product Number</p>
+                        <p class="card-text text-center text-primary fs-5">@ViewData["ProductCount"]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="card mt-4 card-product">
+                    <div class="img-card">
+                        <img src="img/cart.jpg" class="card-img-top" alt="...">
+                    </div>
+
+                    <div class="card-body pt-4">
+                        <p class="card-text text-center text-primary mb-1 fw-bold">Order Number</p>
+                        <p class="card-text text-center text-primary fs-5">@ViewData["OrderCount"]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Repoteq-task.props" />
+</Project>

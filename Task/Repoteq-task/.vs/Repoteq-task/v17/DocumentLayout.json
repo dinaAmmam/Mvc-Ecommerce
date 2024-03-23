@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|c:\\users\\magic\\onedrive\\desktop\\mvc-ecommerce\\task\\repoteq-task\\repoteq-task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\views\\account\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\repoteq-task\\repoteq-task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:repoteq-task\\repoteq-task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Migrations\\20240322235515_m7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C1A1FCF-C649-4BAC-9044-10AF95E72630}|Repoteq-task\\Repoteq-task.csproj|solutionrelative:Repoteq-task\\Migrations\\20240322235515_m7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T16:39:51.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:32:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Repoteq-task\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:08:02.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T22:34:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Repoteq-task\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:27:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Repoteq-task\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:56:43.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T23:10:58.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repository\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Repository\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repository\\ProductRepo.cs",
+              "RelativeToolTip": "Repoteq-task\\Repository\\ProductRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA/wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:52:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Order\\Create.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKcAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T00:46:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\TaskContext.cs",
+              "RelativeToolTip": "Repoteq-task\\Models\\TaskContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:43:52.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:14:58.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Repoteq-task\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:21:17.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repository\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Repository\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repository\\OrderRepo.cs",
+              "RelativeToolTip": "Repoteq-task\\Repository\\OrderRepo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:21:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Program.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Program.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Program.cs",
+              "RelativeToolTip": "Repoteq-task\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:41:34.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Repoteq-task\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:32:36.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240322235515_m7.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Migrations\\20240322235515_m7.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Migrations\\20240322235515_m7.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Migrations\\20240322235515_m7.cs",
+              "RelativeToolTip": "Repoteq-task\\Migrations\\20240322235515_m7.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:55:15.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Repoteq-task\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:38:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T11:57:53.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Repoteq-task\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Repoteq-task\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:47:00.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repoteq-task.csproj",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repoteq-task.csproj",
+              "RelativeDocumentMoniker": "Repoteq-task\\Repoteq-task.csproj",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Repoteq-task.csproj",
+              "RelativeToolTip": "Repoteq-task\\Repoteq-task.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T17:34:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Account\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Repoteq-task\\Views\\Account\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Mvc-Ecommerce\\Task\\Repoteq-task\\Repoteq-task\\Views\\Account\\Registration.cshtml",
+              "RelativeToolTip": "Repoteq-task\\Views\\Account\\Registration.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:50:44.264Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

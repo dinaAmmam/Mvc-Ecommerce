@@ -1,0 +1,212 @@
+﻿@model Repoteq_task.Models.Order
+
+@{
+    // ViewData["Title"] = "Create";
+}
+
+<div class="card-container w-100 pt-3">
+    <div class="container">
+        <h1 class="text-primary fw-bold text-center">Add New order</h1>
+
+        <form asp-action="Create">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group row mt-3 mb-3">
+                <div class="col-lg-3 col-md-6">
+                    <div class="mb-4">
+                        <label asp-for="CustomerName" class="control-label form-label text-primary fs-5">Customer</label>
+                        <input asp-for="CustomerName" class=" form-control form-control-sm" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="mb-4">
+                    <label class="form-label text-primary fs-5" for="productId">Product</label>
+                    <select id="productId" class="form-select form-select-sm" aria-label="Default select example">
+                        <option value="">-- Select Product --</option>
+                        @foreach (var item in ViewBag.Products)
+                        {
+                            var parts = item.Text.Split('-');
+                            var price = parts[parts.Length - 1].Trim();
+                            var produc = parts[0].Trim(); ;
+                            <option value="@item.Value" data-price="@price">@produc</option>
+                        }
+                    </select>
+                </div>
+            
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="mb-4">
+                    <label class="form-label text-primary fs-5" for="price">Price</label>
+                    <input id="productPrice" type="text" class="form-control form-control-sm" readonly />
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="mb-4">
+                    <label class="form-label text-primary fs-5" for="name">Quantity</label>
+                    <input type="number" class="form-control form-control-sm" id="name">
+                </div>
+            </div>
+
+
+                <div class="form-group col-lg-2 col-md-3">
+                    <div class="mb-3 mt-3">
+                        <label class="form-label text-primary fs-5" for="name"></label>
+                        <input type="submit" value="Add" class="btn btn-sm fs-6 btn-primary w-100" />
+            </div>
+            </div>
+            
+    </div>
+        </form>
+
+
+@*         <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Product</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Total</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@Html.DisplayFor(modelItem => item.OrderId)</th>
+                            <td> @Html.DisplayFor(modelItem => item.OrderNumber) </td>
+                            <td>@Html.DisplayFor(modelItem => item.CustomerName)</td>
+                            <td>
+                                @{
+                                    int total = 0;
+                                    foreach (var orderDetail in item.OrderDetails)
+                                    {
+                                        // total = orderDetail.Quantity;
+                                        total += (int)(orderDetail.Quantity * orderDetail.Product.Price);
+                                    }
+                                    @total
+                                }
+
+                            </td>
+                            <td>@Html.DisplayFor(modelItem => item.Date)</td>
+                            <td>
+                                <div class="d-flex flex-row align-items-center flex-wrap justify-content-center w-fit-content div-button">
+                                    <button class="border border-0 mt-1 ">
+                                        <img src="img/edit.png" alt="" class="img-edit ">
+                                        <a asp-action="Edit" asp-route-id="@item.OrderId">Edit</a>
+
+
+                                    </button>
+                                    <button class="border border-0 mt-1">
+                                        <img src="img/delete.png" alt="" class="img-edit">
+                                        <a asp-action="Edit" asp-route-id="@item.OrderId">Delete</a>
+
+                                    </button>
+                                </div>
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+            </table> *@
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <script>
+        // Handle dropdown list
+        document.getElementById('productId').addEventListener('change', function () {
+            var selectedOption = this.options[this.selectedIndex];
+            var price = selectedOption.getAttribute('data-price');
+            document.getElementById('productPrice').value = price;
+        });
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+
+}
+
+
+
+
+           
+
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Product</th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Total</th>
+                                <th scope="col">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Name</td>
+                                <td>1200</td>
+                                <td>1</td>
+                                <td>1200</td>
+                                <td>
+                                    <div
+                                        class="d-flex flex-row align-items-center flex-wrap justify-content-center w-fit-content div-button">
+                                        <button class="border border-0 mt-1 "><img src="~/img/edit.png" alt=""
+                                                class="img-edit ">Edit</button>
+                                        <button class="border border-0 mt-1"><img src="~/img/delete.png" alt=""
+                                                class="img-edit">Delete</button>
+                                    </div>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Name</td>
+                                <td>1200</td>
+                                <td>1</td>
+                                <td>1200</td>
+                                <td>
+                                    <div
+                                        class="d-flex flex-row align-items-center flex-wrap justify-content-center w-fit-content div-button">
+                                        <button class="border border-0 mt-1 "><img src="~/img/edit.png" alt=""
+                                                class="img-edit ">Edit</button>
+                                        <button class="border border-0 mt-1"><img src="~/img/delete.png" alt=""
+                                                class="img-edit">Delete</button>
+                                    </div>
+                                </td>
+
+                            </tr>
+
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <th class="text-center" scope="row">Total</th>
+                                <td colspan="5">1200</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+
+
+                </div>
+                <div class="d-flex justify-content-center mt-4 button-new mb-4 mt-3">
+                    <button class="btn btn-sm fs-6 btn-primary me-3">
+                        Save
+                    </button>
+                    <button class="btn btn-sm fs-6 btn-primary ">
+                        Cancel
+                    </button>
+                </div>

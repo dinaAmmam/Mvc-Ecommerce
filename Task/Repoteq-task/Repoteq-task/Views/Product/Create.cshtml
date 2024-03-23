@@ -1,0 +1,80 @@
+﻿@model Repoteq_task.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="card-container w-100 pt-3">
+    <div class="container">
+        <h1 class="text-primary fw-bold text-center">Add New Product</h1>
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="mb-4">
+                        <label asp-for="Image" class="control-label text-primary fw-bold">Product Picture</label>
+                        <img src="~/img/placeholder-3x2.png" alt="" class="" id="image-preview" onclick="triggerImageInput(event)">
+                        <input type="file" hidden id="image-input" accept="image/*" onchange="previewImage(event)" />
+                        <input type="hidden" asp-for="Image" id="image-base64" />
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="mb-4">
+                        <label asp-for="Name" class="control-label form-label text-primary fs-5">Product name</label>
+                        <input asp-for="Name" class="form-control form-control form-control-sm login-page" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="mb-4">
+                        <label asp-for="Price" class="control-label form-label text-primary fs-5">Price</label>
+                        <input type="number" asp-for="Price" class="form-control form-control form-control-sm login-page" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-lg-3 col-md-6 my-3">
+                    <input type="submit" value="Save" class="btn btn-sm fs-6 btn-primary w-100" />
+                </div>
+                <div class="col-lg-3 col-md-6 my-3">
+                    <a asp-action="Index" class="btn btn-sm fs-6 btn-primary w-100">
+                        Cancel
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function previewImage(event) {
+        const file = event.target.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function () {
+            const imagePreview = document.getElementById("image-preview");
+            imagePreview.src = reader.result;
+            // Convert the image to base64 and set the value to the hidden input field
+            document.getElementById("image-base64").value = reader.result;
+        }
+
+        reader.readAsDataURL(file);
+    }
+
+    function triggerImageInput(event) {
+        const imageInput = document.getElementById("image-input");
+        imageInput.click();
+    }
+</script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
