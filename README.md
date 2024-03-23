@@ -1,4 +1,4 @@
-# Mvc-Ecommerce Task - CRUD Operations with Repository Pattern and Dependency Injection
+# Mvc-Ecommerce
 
 This repository contains:
  * MVC (Model-View-Controller) application
